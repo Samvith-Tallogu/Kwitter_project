@@ -1,2 +1,1 @@
-# Kwitter_project
- 
+Access this project at: https://samvith-tallogu/github.io/kwitter_project
