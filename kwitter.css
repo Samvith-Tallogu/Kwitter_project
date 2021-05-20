@@ -1,6 +1,11 @@
+body{
+	background-color: skyblue;
+}
+
+
 .login_div
 {
-	background-color: skyblue;
+	background-color: rgb(212, 212, 212);
     float: none;
     border-radius: 15px;
 }
@@ -37,4 +42,9 @@
 .message_h4
 {
 	padding-left:5px;color:grey;
+}
+.loglogo{
+	width: 1.5cm;
+	height: 1.5cm;
+	border-radius: 10px;
 }
