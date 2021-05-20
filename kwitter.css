@@ -1,4 +1,40 @@
-body{
-    background-color: skyblue;
-    vertical-align: super;
+.login_div
+{
+	background-color: skyblue;
+    float: none;
+    border-radius: 15px;
+}
+
+
+#login_button
+{
+	width: 80%;
+    border-radius: 15px;
+}
+
+.room_name
+{
+	cursor:pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px;
+    float: right;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;
+    background: rgba(255,255,255,0.8);
+    border-radius: 15px;
+}
+
+
+.message_h4
+{
+	padding-left:5px;color:grey;
 }
